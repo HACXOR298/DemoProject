@@ -1,1 +1,1 @@
-document.write('<div class="11" style   = "background></div>');
+document.write('<div class="11"></div>');
